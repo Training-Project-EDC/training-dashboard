@@ -18,7 +18,7 @@ setup(
     author_email='se-dmc@bhp.org.bw',
     packages=find_packages(),
     include_package_data=True,
-    url='https://github.com/covid19-vaccine/esr21-dashboard',
+    url='',
     license='GPL license, see LICENSE',
     description='training dashboard.',
     long_description=README,
